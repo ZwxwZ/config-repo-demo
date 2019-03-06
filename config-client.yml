@@ -3,3 +3,6 @@ info:
   from: git11111111111111111111111111111
   
 test: bbbaaaaaa
+management:
+  security:
+    enabled: false
